@@ -1,0 +1,13 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Tuya ZHA Quirks",
+                "description": "Instala os quirks para o ZHA reconhecer os aparelhos cobertos. Não há nada a configurar."
+            }
+        },
+        "abort": {
+            "already_configured": "Os quirks já estão instalados."
+        }
+    }
+}
